@@ -24,6 +24,4 @@ This project demonstrates deploying a scalable web application using EC2 Auto Sc
 3. **Wait for resources to be provisioned.**
 4. **Visit the Load Balancer DNS** (provided in the output) to see your web application.
 
-## Author
 
-Generated with help from ChatGPT.
